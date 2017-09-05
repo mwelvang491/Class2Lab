@@ -4,6 +4,7 @@
     Author     : mitchell
 --%>
 
+<%@page import="activity2.PageGenerator"%>
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>
@@ -12,11 +13,16 @@
         <title>JSP Page</title>
     </head>
     <body>
+        <link href="styles.css" rel="stylesheet" type="text/css"/>
+        <form method="POST">
         <h1>Hello World!</h1>
-        <p><a href="#">Click Here To See Whatever</a></p>
-        <%  
-            
-            
+        <p><a href="http://localhost:8080/Class2Lab/Pager">Click Me</a></p>
+        
+        <%
+                
             %>
+                 
+        </form>
+       
     </body>
 </html>
