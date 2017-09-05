@@ -16,7 +16,7 @@
         <link href="styles.css" rel="stylesheet" type="text/css"/>
         <form method="POST">
         <h1>Hello World!</h1>
-        <p><a href="http://localhost:8080/Class2Lab/Pager">Click Me</a></p>
+        <p><a href="http://localhost:8080/Class2Lab/Pager">Click Me For Lab 2</a></p>
         
         <%
                 

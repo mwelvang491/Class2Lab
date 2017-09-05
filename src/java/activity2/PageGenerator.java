@@ -43,7 +43,7 @@ public class PageGenerator extends HttpServlet {
             out.println("</head>");
             out.println("<body>");
             
-            out.println("<h1>" +"Servlet Page Generator"+"</h1>");
+            out.println("<h1>" +"Employee Age And Job Title"+"</h1>");
             
             out.println("<table>");
             out.println("<tr>");
