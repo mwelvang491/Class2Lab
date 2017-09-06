@@ -65,10 +65,11 @@ public class PageGenerator extends HttpServlet {
             out.println("</tr>");
             
             out.println("<tr>");
-            out.println("<td>James K</td>");
+            out.println("<td>Kyle K</td>");
             out.println("<td>22</td>");
             out.println("<td>Programmer</td>");
             out.println("</tr>");
+            
             out.println("</table>");
             out.println("</body>");
             out.println("</html>");
