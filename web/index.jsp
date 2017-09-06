@@ -18,6 +18,8 @@
         <h1>Hello World!</h1>
         <p><a href="http://localhost:8080/Class2Lab/Pager">Click Me For Lab 2</a></p>
         
+        <p> Click Me For Lab 3  </p>
+        
         <%
                 
             %>
