@@ -18,7 +18,7 @@
         <h1>Hello World!</h1>
         <p><a href="http://localhost:8080/Class2Lab/Pager">Click Me For Lab 2</a></p>
         
-        <p> Click Me For Lab 3  </p>
+        <p> <a href="../src/java/activity2/PageGenerator2.jsp">Click Me For Lab 3</a></p>
         
         <%
                 
